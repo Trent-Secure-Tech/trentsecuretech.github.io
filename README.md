@@ -31,7 +31,7 @@ Scan the QR code to visit the website.
 
 <img src="./images/qr-code.png" alt="Trent Secure Tech QR code" width="200">
 
-[Visit the website]([https://trentsecuretech.github.io/](https://trent-secure-tech.github.io/trentsecuretech.github.io/))
+[Visit the website](https://trent-secure-tech.github.io/trentsecuretech.github.io/)
 
 ## Disclaimer
 
