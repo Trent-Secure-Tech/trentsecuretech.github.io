@@ -29,7 +29,7 @@ It is designed with a dark background and green accents, with a responsive layou
 
 Scan the QR code to visit the website.
 
-![Trent Secure Tech QR code](./images/qr-code.png)
+<img src="./images/qr-code.png" alt="Trent Secure Tech QR code" width="200">
 
 [Visit the website](https://trentsecuretech.github.io/)
 
