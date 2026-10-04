@@ -27,9 +27,9 @@ It is designed with a dark background and green accents, with a responsive layou
 
 ## Visit Trent Secure Tech
 
-Scan the QR code below to visit the Trent Secure Tech website.
+Scan the QR code to visit the website.
 
-![Trent Secure Tech website QR code](images/qr-code.png)
+![Trent Secure Tech QR code](./images/qr-code.png)
 
 [Visit the website](https://trentsecuretech.github.io/)
 
