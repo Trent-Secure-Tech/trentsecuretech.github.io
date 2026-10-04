@@ -25,12 +25,13 @@ The website is built using:
 
 It is designed with a dark background and green accents, with a responsive layout for desktop and mobile screens.
 
-## Featured Device
+## Visit Trent Secure Tech
 
-**Google Pixel 8 — 128GB, Obsidian**
+Scan the QR code below to visit the Trent Secure Tech website.
 
-* GrapheneOS installed
-* Listed price: £500
+![Trent Secure Tech website QR code](images/qr-code.png)
+
+[Visit the website](https://trentsecuretech.github.io/)
 
 ## Disclaimer
 
