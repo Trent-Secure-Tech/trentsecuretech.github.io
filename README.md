@@ -32,16 +32,6 @@ It is designed with a dark background and green accents, with a responsive layou
 * GrapheneOS installed
 * Listed price: £500
 
-## Running Locally
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/chealyC/REPOSITORY-NAME.git
-   ```
-2. Open the project folder.
-3. Open `index.html` in your browser, or use the Live Server extension in VS Code.
-
 ## Disclaimer
 
 Trent Secure Tech is independent and is not affiliated with Google or the GrapheneOS project.
